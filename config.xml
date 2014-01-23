@@ -8,6 +8,7 @@
 
 <description>
 Sistema de facturacion, Tango Gestion, by LabBytes.
+IMPORTANTE: Necesitas tener conexión a internet para acceder a esta aplicación.
 </description>
 <preference name="phonegap-version" value="2.9.0" />
 <preference name="orientation" value="portrait" />
